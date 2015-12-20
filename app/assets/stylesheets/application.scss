@@ -10,46 +10,7 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require theme/animate.min
- *= require theme/bootstrap-social
- *= require theme/bootstrap.min
- *= require theme/buttons
- *= require theme/blue
- *= require theme/dark-blue
- *= require theme/green
- *= require theme/pinkish
- *= require theme/purple
- *= require theme/red
- *= require theme/seagul
- *= require theme/silver
- *= require theme/font-awesome
- *= require theme/ionicons-cheatsheet
- *= require theme/ionicons.min
- *= require theme/jquery.snippet
- *= require theme/magnific-popup
- *= require theme/owl.carousel
- *= require theme/owl.theme
- *= require theme/royal_preloader
- *= require theme/style-switcher
- *= require theme/style
- *= require theme/width-boxed
- *= require theme/width-full
- *= require theme/noneed
- *= require theme/layers
- *= require theme/ares
- *= require theme/dione
- *= require theme/hebe
- *= require theme/hephaistos
- *= require theme/hermes
- *= require theme/metis
- *= require theme/persephone
- *= require theme/uranus
- *= require theme/zeus
- *= require theme/navigation
- *= require theme/settings
- *= require theme/font-awesome
- *= require theme/helper
- *= require theme/pe-icon-7-stroke
+
  *= require_tree .
  *= require_self
  */
